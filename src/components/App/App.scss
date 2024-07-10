@@ -1,0 +1,19 @@
+body {
+  box-sizing: border-box;
+}
+
+.app-container {
+  max-width: 640px;
+  width: 70%;
+  margin: 24px auto 0;
+  padding: 0 12px 12px 12px;
+  background-color: #F5F5F5;
+
+  .logo {
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f14e4e;
+  }
+}
