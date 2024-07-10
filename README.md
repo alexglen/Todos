@@ -1,2 +1,0 @@
-# Todos
-Simple todo app
